@@ -1,0 +1,86 @@
+1629038117107	geckodriver	INFO	Listening on 127.0.0.1:58913
+1629038120112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileol5wnB"
+1629038126999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileol5wnB\\search.json.mozlz4", (void 0)))
+1629038134691	Marionette	INFO	Listening on port 60668
+1629038135342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://101.133.169.100/yuns/index.php, line 947: ReferenceError: SetRemainTime is not defined
+1629038144364	Marionette	INFO	Stopped listening on port 60668
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Erro1629038149258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileFCugPA\\search.json.mozlz4", (void 0)))
+1629038153967	Marionette	INFO	Listening on port 63932
+1629038154484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://101.133.169.100/yuns/index.php, line 947: ReferenceError: SetRemainTime is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 658: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALconsole.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/do1629039952061	Marionette	INFO	Stopped listening on port 63932
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 658: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629039951838	Marionette	INFO	Stopped listening on port 64118
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+1629189603648	geckodriver	INFO	Listening on 127.0.0.1:59800
+1629189606672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilersuwm1"
+1629189612517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilersuwm1\\search.json.mozlz4", (void 0)))
+1629189617043	Marionette	INFO	Listening on port 59810
+1629189617377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://101.133.169.100/yuns/index.php, line 947: ReferenceError: SetRemainTime is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://101.133.169.100"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://101.133.169.100"
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript error: resource://gre/modules/psm/RemoteSecuritySettings.jsm, line 658: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIXPCComponents_Utils.reportError]
+1629190092571	Marionette	INFO	Stopped listening on port 59810
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629189844692	geckodriver	INFO	Listening on 127.0.0.1:60045
+1629189847724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileb8RW83"
+1629189851805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileb8RW83\\search.json.mozlz4", (void 0)))
+1629189857135	Marionette	INFO	Listening on port 60053
+1629189857212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://101.133.169.100/yuns/index.php, line 947: ReferenceError: SetRemainTime is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1629190091441	Marionette	INFO	Stopped listening on port 60053
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
